@@ -1,1 +1,1 @@
-https://JoaoGAV-Dev.github.io
+https://joaogav-dev.github.io/
